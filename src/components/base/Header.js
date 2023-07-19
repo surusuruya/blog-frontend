@@ -1,6 +1,6 @@
 import styled from 'styled-components';
-import Responsive from './Responsive';
-import Button from './Button';
+import Responsive from '../common/Responsive';
+import Button from '../common/Button';
 import { Link } from 'react-router-dom';
 
 const HeaderBlock = styled.div`

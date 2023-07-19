@@ -1,10 +1,10 @@
-import Header from '../components/common/Header';
+import Header from '../components/base/Header';
 
 const PostListPage = () => {
     return (
         <>
             <Header />
-            <div>안녕하세요.</div>
+            <div>PostListPage.js</div>
         </>
     )
 }
